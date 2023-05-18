@@ -1,4 +1,4 @@
-CREATE SCHEMA pizza_runner;
+--CREATE SCHEMA pizza_runner;
 
 DROP TABLE IF EXISTS runners;
 CREATE TABLE runners (
